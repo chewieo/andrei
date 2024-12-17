@@ -1,0 +1,14 @@
+Condez, 19, 07531, condez.kenjo@lpunetwork.edu.ph, 09584371562
+Fajarillo, 20, 94367, fajarillo.Jlouisse@lpunetwork.edu.ph, 09375816427
+Dy, 19, 49103, dy.shane@lpunetwork.edu.ph, 09185672402
+Cadiz, 20, 05732, cadiz.mark@lpunetwork.edu.ph, 09457796348
+Al Zarouni, 20, 03348, takamura.yosh@lpunetwork.edu.ph, 09997531598
+Valzado, 23, 67134, valzado.aeron@lpunetwork.edu.ph, 09732511631
+Lee, 21, 17926, lee.val@lpunetwork.edu.ph, 09753654159
+Torres, 20, 92573, torres.dominic@lpunetwork.edu.ph, 09890123456
+Mariano, 19, 02192, mariano.andrei@lpunetwork.edu.ph, 09901234567
+Fortuno, 25, 74218, fortuno.renz@lpunetwork.edu.ph, 09324862495
+123, 123, 123, 123, 123
+asd, asd, asd, asd, asd
+admin123
+03251
